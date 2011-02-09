@@ -1,0 +1,7 @@
+C:\Users\shep\Documents\Projects\Rocketboost-Kickstart\Talk - Supercomputing with Excel\DemoUDF\UDF\UDF\bin\Debug\UDF.dll
+C:\Users\shep\Documents\Projects\Rocketboost-Kickstart\Talk - Supercomputing with Excel\DemoUDF\UDF\UDF\bin\Debug\UDF.pdb
+C:\Users\shep\Documents\Projects\Rocketboost-Kickstart\Talk - Supercomputing with Excel\DemoUDF\UDF\UDF\bin\Debug\UDF.tlb
+C:\Users\shep\Documents\Projects\Rocketboost-Kickstart\Talk - Supercomputing with Excel\DemoUDF\UDF\UDF\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\shep\Documents\Projects\Rocketboost-Kickstart\Talk - Supercomputing with Excel\DemoUDF\UDF\UDF\obj\Debug\UDF.csproj.ResolveComReference.cache
+C:\Users\shep\Documents\Projects\Rocketboost-Kickstart\Talk - Supercomputing with Excel\DemoUDF\UDF\UDF\obj\Debug\UDF.dll
+C:\Users\shep\Documents\Projects\Rocketboost-Kickstart\Talk - Supercomputing with Excel\DemoUDF\UDF\UDF\obj\Debug\UDF.pdb

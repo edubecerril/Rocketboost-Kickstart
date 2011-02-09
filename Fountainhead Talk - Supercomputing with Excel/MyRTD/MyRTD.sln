@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyRTD", "MyRTD\MyRTD.csproj", "{EFEC70A6-1CED-4B33-9677-9DB3095D365B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyRTDEXE", "MyRTDEXE\MyRTDEXE.csproj", "{766BFF86-A77C-4900-8451-5B2575AA87DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyRTDConsole", "MyRTDConsole\MyRTDConsole.csproj", "{E1185BA6-77F2-49F2-8D22-291564C8FBCE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EFEC70A6-1CED-4B33-9677-9DB3095D365B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFEC70A6-1CED-4B33-9677-9DB3095D365B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFEC70A6-1CED-4B33-9677-9DB3095D365B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFEC70A6-1CED-4B33-9677-9DB3095D365B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{766BFF86-A77C-4900-8451-5B2575AA87DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{766BFF86-A77C-4900-8451-5B2575AA87DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{766BFF86-A77C-4900-8451-5B2575AA87DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{766BFF86-A77C-4900-8451-5B2575AA87DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1185BA6-77F2-49F2-8D22-291564C8FBCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1185BA6-77F2-49F2-8D22-291564C8FBCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1185BA6-77F2-49F2-8D22-291564C8FBCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1185BA6-77F2-49F2-8D22-291564C8FBCE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

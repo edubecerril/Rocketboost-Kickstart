@@ -1,0 +1,8 @@
+C:\Users\shep\Documents\Projects\Rocketboost-Kickstart\Talk - Supercomputing with Excel\DemoUDF\GPU\GPU\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\shep\Documents\Projects\Rocketboost-Kickstart\Talk - Supercomputing with Excel\DemoGPU\GPU\GPU\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\shep\Documents\Projects\Rocketboost-Kickstart\Talk - Supercomputing with Excel\DemoGPU\GPU\GPU\bin\Debug\GPU.dll
+C:\Users\shep\Documents\Projects\Rocketboost-Kickstart\Talk - Supercomputing with Excel\DemoGPU\GPU\GPU\bin\Debug\GPU.pdb
+C:\Users\shep\Documents\Projects\Rocketboost-Kickstart\Talk - Supercomputing with Excel\DemoGPU\GPU\GPU\obj\Debug\GPU.csproj.ResolveComReference.cache
+C:\Users\shep\Documents\Projects\Rocketboost-Kickstart\Talk - Supercomputing with Excel\DemoGPU\GPU\GPU\obj\Debug\GPU.dll
+C:\Users\shep\Documents\Projects\Rocketboost-Kickstart\Talk - Supercomputing with Excel\DemoGPU\GPU\GPU\obj\Debug\GPU.pdb
+C:\Users\shep\Documents\Projects\Rocketboost-Kickstart\Talk - Supercomputing with Excel\DemoGPU\GPU\GPU\bin\Debug\GPU.tlb

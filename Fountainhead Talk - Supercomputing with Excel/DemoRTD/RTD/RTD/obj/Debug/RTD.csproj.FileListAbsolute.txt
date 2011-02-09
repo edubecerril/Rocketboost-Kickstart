@@ -1,0 +1,6 @@
+C:\Users\shep\Documents\Projects\Rocketboost-Kickstart\Talk - Supercomputing with Excel\DemoRTD\RTD\RTD\bin\Debug\RTD.dll
+C:\Users\shep\Documents\Projects\Rocketboost-Kickstart\Talk - Supercomputing with Excel\DemoRTD\RTD\RTD\bin\Debug\RTD.pdb
+C:\Users\shep\Documents\Projects\Rocketboost-Kickstart\Talk - Supercomputing with Excel\DemoRTD\RTD\RTD\bin\Debug\RTD.tlb
+C:\Users\shep\Documents\Projects\Rocketboost-Kickstart\Talk - Supercomputing with Excel\DemoRTD\RTD\RTD\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\shep\Documents\Projects\Rocketboost-Kickstart\Talk - Supercomputing with Excel\DemoRTD\RTD\RTD\obj\Debug\RTD.dll
+C:\Users\shep\Documents\Projects\Rocketboost-Kickstart\Talk - Supercomputing with Excel\DemoRTD\RTD\RTD\obj\Debug\RTD.pdb

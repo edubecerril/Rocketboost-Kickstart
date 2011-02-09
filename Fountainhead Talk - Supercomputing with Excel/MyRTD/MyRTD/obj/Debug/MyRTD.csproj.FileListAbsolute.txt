@@ -1,0 +1,18 @@
+C:\Users\shep\Documents\Visual Studio 2008\Projects\MyRTD\MyRTD\bin\Debug\MyRTD.dll
+C:\Users\shep\Documents\Visual Studio 2008\Projects\MyRTD\MyRTD\bin\Debug\MyRTD.pdb
+C:\Users\shep\Documents\Visual Studio 2008\Projects\MyRTD\MyRTD\bin\Debug\MyRTD.tlb
+C:\Users\shep\Documents\Visual Studio 2008\Projects\MyRTD\MyRTD\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\shep\Documents\Visual Studio 2008\Projects\MyRTD\MyRTD\obj\Debug\MyRTD.dll
+C:\Users\shep\Documents\Visual Studio 2008\Projects\MyRTD\MyRTD\obj\Debug\MyRTD.pdb
+C:\Users\shep\Documents\Projects\Andrew-Sheppard\MyRTD\MyRTD\bin\Debug\MyRTD.dll
+C:\Users\shep\Documents\Projects\Andrew-Sheppard\MyRTD\MyRTD\bin\Debug\MyRTD.pdb
+C:\Users\shep\Documents\Projects\Andrew-Sheppard\MyRTD\MyRTD\bin\Debug\MyRTD.tlb
+C:\Users\shep\Documents\Projects\Andrew-Sheppard\MyRTD\MyRTD\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\shep\Documents\Projects\Andrew-Sheppard\MyRTD\MyRTD\obj\Debug\MyRTD.dll
+C:\Users\shep\Documents\Projects\Andrew-Sheppard\MyRTD\MyRTD\obj\Debug\MyRTD.pdb
+C:\Users\shep\Documents\Projects\Rocketboost-Kickstart\Talk - Supercomputing with Excel\MyRTD\MyRTD\bin\Debug\MyRTD.dll
+C:\Users\shep\Documents\Projects\Rocketboost-Kickstart\Talk - Supercomputing with Excel\MyRTD\MyRTD\bin\Debug\MyRTD.pdb
+C:\Users\shep\Documents\Projects\Rocketboost-Kickstart\Talk - Supercomputing with Excel\MyRTD\MyRTD\bin\Debug\MyRTD.tlb
+C:\Users\shep\Documents\Projects\Rocketboost-Kickstart\Talk - Supercomputing with Excel\MyRTD\MyRTD\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\shep\Documents\Projects\Rocketboost-Kickstart\Talk - Supercomputing with Excel\MyRTD\MyRTD\obj\Debug\MyRTD.dll
+C:\Users\shep\Documents\Projects\Rocketboost-Kickstart\Talk - Supercomputing with Excel\MyRTD\MyRTD\obj\Debug\MyRTD.pdb

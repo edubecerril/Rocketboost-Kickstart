@@ -1,0 +1,15 @@
+C:\Users\shep\Documents\Visual Studio 2008\Projects\MyRTD\MyRTDEXE\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\shep\Documents\Visual Studio 2008\Projects\MyRTD\MyRTDEXE\bin\Debug\MyRTDEXE.exe
+C:\Users\shep\Documents\Visual Studio 2008\Projects\MyRTD\MyRTDEXE\bin\Debug\MyRTDEXE.pdb
+C:\Users\shep\Documents\Visual Studio 2008\Projects\MyRTD\MyRTDEXE\obj\Debug\MyRTDEXE.exe
+C:\Users\shep\Documents\Visual Studio 2008\Projects\MyRTD\MyRTDEXE\obj\Debug\MyRTDEXE.pdb
+C:\Users\shep\Documents\Projects\Andrew-Sheppard\MyRTD\MyRTDEXE\bin\Debug\MyRTDEXE.exe
+C:\Users\shep\Documents\Projects\Andrew-Sheppard\MyRTD\MyRTDEXE\bin\Debug\MyRTDEXE.pdb
+C:\Users\shep\Documents\Projects\Andrew-Sheppard\MyRTD\MyRTDEXE\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\shep\Documents\Projects\Andrew-Sheppard\MyRTD\MyRTDEXE\obj\Debug\MyRTDEXE.exe
+C:\Users\shep\Documents\Projects\Andrew-Sheppard\MyRTD\MyRTDEXE\obj\Debug\MyRTDEXE.pdb
+C:\Users\shep\Documents\Projects\Rocketboost-Kickstart\Talk - Supercomputing with Excel\MyRTD\MyRTDEXE\bin\Debug\MyRTDEXE.exe
+C:\Users\shep\Documents\Projects\Rocketboost-Kickstart\Talk - Supercomputing with Excel\MyRTD\MyRTDEXE\bin\Debug\MyRTDEXE.pdb
+C:\Users\shep\Documents\Projects\Rocketboost-Kickstart\Talk - Supercomputing with Excel\MyRTD\MyRTDEXE\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\shep\Documents\Projects\Rocketboost-Kickstart\Talk - Supercomputing with Excel\MyRTD\MyRTDEXE\obj\Debug\MyRTDEXE.exe
+C:\Users\shep\Documents\Projects\Rocketboost-Kickstart\Talk - Supercomputing with Excel\MyRTD\MyRTDEXE\obj\Debug\MyRTDEXE.pdb

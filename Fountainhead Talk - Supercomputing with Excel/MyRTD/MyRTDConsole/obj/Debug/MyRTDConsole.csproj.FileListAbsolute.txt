@@ -1,0 +1,10 @@
+C:\Users\shep\Documents\Projects\Andrew-Sheppard\MyRTD\MyRTDConsole\bin\Debug\MyRTDConsole.exe
+C:\Users\shep\Documents\Projects\Andrew-Sheppard\MyRTD\MyRTDConsole\bin\Debug\MyRTDConsole.pdb
+C:\Users\shep\Documents\Projects\Andrew-Sheppard\MyRTD\MyRTDConsole\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\shep\Documents\Projects\Andrew-Sheppard\MyRTD\MyRTDConsole\obj\Debug\MyRTDConsole.exe
+C:\Users\shep\Documents\Projects\Andrew-Sheppard\MyRTD\MyRTDConsole\obj\Debug\MyRTDConsole.pdb
+C:\Users\shep\Documents\Projects\Rocketboost-Kickstart\Talk - Supercomputing with Excel\MyRTD\MyRTDConsole\bin\Debug\MyRTDConsole.exe
+C:\Users\shep\Documents\Projects\Rocketboost-Kickstart\Talk - Supercomputing with Excel\MyRTD\MyRTDConsole\bin\Debug\MyRTDConsole.pdb
+C:\Users\shep\Documents\Projects\Rocketboost-Kickstart\Talk - Supercomputing with Excel\MyRTD\MyRTDConsole\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\shep\Documents\Projects\Rocketboost-Kickstart\Talk - Supercomputing with Excel\MyRTD\MyRTDConsole\obj\Debug\MyRTDConsole.exe
+C:\Users\shep\Documents\Projects\Rocketboost-Kickstart\Talk - Supercomputing with Excel\MyRTD\MyRTDConsole\obj\Debug\MyRTDConsole.pdb
